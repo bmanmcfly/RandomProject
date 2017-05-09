@@ -1,0 +1,111 @@
+
+Snake.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+apple
+  rotate: false
+  xy: 2, 2
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: 0
+body-left-down
+  rotate: false
+  xy: 68, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+body-left-right
+  rotate: false
+  xy: 134, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+body-right-down
+  rotate: false
+  xy: 200, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+body-right-up
+  rotate: false
+  xy: 266, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+body-up-down
+  rotate: false
+  xy: 332, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+body-up-left
+  rotate: false
+  xy: 398, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+head-down
+  rotate: false
+  xy: 464, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+head-left
+  rotate: false
+  xy: 530, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+head-right
+  rotate: false
+  xy: 596, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 9
+head-up
+  rotate: false
+  xy: 662, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 10
+tail-down
+  rotate: false
+  xy: 728, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 11
+tail-left
+  rotate: false
+  xy: 794, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 12
+tail-right
+  rotate: false
+  xy: 860, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 13
+tail-up
+  rotate: false
+  xy: 926, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 14
